@@ -41,12 +41,12 @@
     <message>
         <location filename="../ui/controllers/allowedDnsUiController.cpp" line="86"/>
         <source>Import completed</source>
-        <translation>Импорт завершен</translation>
+        <translation>Конфиг принесён! 🐕</translation>
     </message>
     <message>
         <location filename="../ui/controllers/allowedDnsUiController.cpp" line="107"/>
         <source>Export completed</source>
-        <translation>Экспорт завершен</translation>
+        <translation>Конфиг закопан снаружи!</translation>
     </message>
 </context>
 <context>
@@ -119,12 +119,12 @@
     <message>
         <location filename="../ui/qml/Controls2/CaptchaDialogType.qml" line="254"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Controls2/CaptchaDialogType.qml" line="271"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation>Спать</translation>
     </message>
 </context>
 <context>
@@ -132,12 +132,12 @@
     <message>
         <location filename="../ui/qml/Components/ChangelogDrawer.qml" line="70"/>
         <source>Update</source>
-        <translation>Обновить</translation>
+        <translation>Отряхнуться</translation>
     </message>
     <message>
         <location filename="../ui/qml/Components/ChangelogDrawer.qml" line="96"/>
         <source>Skip</source>
-        <translation>Пропустить</translation>
+        <translation>Пробежать мимо</translation>
     </message>
 </context>
 <context>
@@ -153,12 +153,12 @@
     <message>
         <location filename="../ui/qml/Components/ConnectionTypeSelectionDrawer.qml" line="36"/>
         <source>Add new connection</source>
-        <translation>Добавить новое соединение</translation>
+        <translation>Обнюхать новую конуру</translation>
     </message>
     <message>
         <location filename="../ui/qml/Components/ConnectionTypeSelectionDrawer.qml" line="44"/>
         <source>Configure your server</source>
-        <translation>Настроить свой сервер</translation>
+        <translation>Строю свою конуру</translation>
     </message>
     <message>
         <location filename="../ui/qml/Components/ConnectionTypeSelectionDrawer.qml" line="59"/>
@@ -171,17 +171,17 @@
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="59"/>
         <source>Connecting...</source>
-        <translation>Подключение...</translation>
+        <translation>Нюхаю туннель... 🐾</translation>
     </message>
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="66"/>
         <source>Connected</source>
-        <translation>Подключено</translation>
+        <translation>Гав! Подключено 🐾</translation>
     </message>
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="75"/>
         <source>Reconnecting...</source>
-        <translation>Переподключение...</translation>
+        <translation>Снова нюхаю туннель...</translation>
     </message>
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="80"/>
@@ -189,17 +189,17 @@
         <location filename="../ui/controllers/connectionUiController.cpp" line="101"/>
         <location filename="../ui/controllers/connectionUiController.h" line="65"/>
         <source>Connect</source>
-        <translation>Подключиться</translation>
+        <translation>Гав-вперёд!</translation>
     </message>
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="85"/>
         <source>Disconnecting...</source>
-        <translation>Отключение...</translation>
+        <translation>Убираю лапы...</translation>
     </message>
     <message>
         <location filename="../ui/controllers/connectionUiController.cpp" line="90"/>
         <source>Preparing...</source>
-        <translation>Подготовка...</translation>
+        <translation>Чешу за ухом...</translation>
     </message>
 </context>
 <context>
@@ -273,7 +273,7 @@ Can&apos;t be disabled for current server</source>
         <location filename="../ui/qml/Components/HomeSplitTunnelingDrawer.qml" line="65"/>
         <location filename="../ui/qml/Components/HomeSplitTunnelingDrawer.qml" line="84"/>
         <source>Disabled</source>
-        <translation>Отключено</translation>
+        <translation>Сплю дома 🏠</translation>
     </message>
     <message>
         <location filename="../ui/qml/Components/HomeSplitTunnelingDrawer.qml" line="83"/>
@@ -417,12 +417,12 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/controllers/ipSplitTunnelingUiController.cpp" line="51"/>
         <source>Import completed</source>
-        <translation>Импорт завершен</translation>
+        <translation>Конфиг принесён! 🐕</translation>
     </message>
     <message>
         <location filename="../ui/controllers/ipSplitTunnelingUiController.cpp" line="64"/>
         <source>Export completed</source>
-        <translation>Экспорт завершен</translation>
+        <translation>Конфиг закопан снаружи!</translation>
     </message>
 </context>
 <context>
@@ -440,12 +440,12 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/controllers/marketplaceUpdateController.cpp" line="155"/>
         <source>Update</source>
-        <translation>Обновить</translation>
+        <translation>Отряхнуться</translation>
     </message>
     <message>
         <location filename="../ui/controllers/marketplaceUpdateController.cpp" line="156"/>
         <source>Skip</source>
-        <translation>Пропустить</translation>
+        <translation>Пробежать мимо</translation>
     </message>
 </context>
 <context>
@@ -513,7 +513,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageDevMenu.qml" line="77"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageDevMenu.qml" line="85"/>
@@ -531,7 +531,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageHome.qml" line="121"/>
         <source>Logging enabled</source>
-        <translation>Логирование включено</translation>
+        <translation>Веду дневник лапами 📝</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageHome.qml" line="149"/>
@@ -541,7 +541,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageHome.qml" line="191"/>
         <source>Split tunneling enabled</source>
-        <translation>Раздельное туннелирование включено</translation>
+        <translation>Нюхаем избирательно 👃</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageHome.qml" line="191"/>
@@ -573,7 +573,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageHome.qml" line="571"/>
         <source>Servers</source>
-        <translation>Серверы</translation>
+        <translation>Конуры</translation>
     </message>
 </context>
 <context>
@@ -671,7 +671,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgClientSettings.qml" line="409"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgClientSettings.qml" line="418"/>
@@ -686,7 +686,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgClientSettings.qml" line="420"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgClientSettings.qml" line="421"/>
@@ -844,7 +844,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgSettings.qml" line="467"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgSettings.qml" line="482"/>
@@ -869,7 +869,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgSettings.qml" line="497"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolAwgSettings.qml" line="498"/>
@@ -1050,7 +1050,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolOpenVpnSettings.qml" line="420"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolOpenVpnSettings.qml" line="425"/>
@@ -1065,7 +1065,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolOpenVpnSettings.qml" line="427"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolOpenVpnSettings.qml" line="428"/>
@@ -1113,7 +1113,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolRaw.qml" line="182"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolRaw.qml" line="183"/>
@@ -1146,7 +1146,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardClientSettings.qml" line="117"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardClientSettings.qml" line="120"/>
@@ -1161,7 +1161,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardClientSettings.qml" line="122"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardClientSettings.qml" line="123"/>
@@ -1194,7 +1194,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardSettings.qml" line="115"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardSettings.qml" line="120"/>
@@ -1209,7 +1209,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardSettings.qml" line="122"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolWireGuardSettings.qml" line="123"/>
@@ -1242,7 +1242,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayFlowSettings.qml" line="118"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayFlowSettings.qml" line="120"/>
@@ -1257,7 +1257,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayFlowSettings.qml" line="122"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayFlowSettings.qml" line="123"/>
@@ -1326,7 +1326,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySecuritySettings.qml" line="308"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySecuritySettings.qml" line="315"/>
@@ -1341,7 +1341,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySecuritySettings.qml" line="317"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySecuritySettings.qml" line="318"/>
@@ -1404,7 +1404,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySettings.qml" line="214"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySettings.qml" line="222"/>
@@ -1419,7 +1419,7 @@ Already installed containers were found on the server. All installed containers 
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySettings.qml" line="224"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySettings.qml" line="225"/>
@@ -1556,7 +1556,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySnapshots.qml" line="278"/>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation>Закопать</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXraySnapshots.qml" line="278"/>
@@ -1818,7 +1818,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayTransportSettings.qml" line="770"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayTransportSettings.qml" line="777"/>
@@ -1833,7 +1833,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayTransportSettings.qml" line="779"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayTransportSettings.qml" line="780"/>
@@ -1861,7 +1861,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingBytesSettings.qml" line="91"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingBytesSettings.qml" line="93"/>
@@ -1876,7 +1876,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingBytesSettings.qml" line="95"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingBytesSettings.qml" line="96"/>
@@ -1931,7 +1931,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingSettings.qml" line="220"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingSettings.qml" line="222"/>
@@ -1946,7 +1946,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingSettings.qml" line="224"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXPaddingSettings.qml" line="225"/>
@@ -2005,7 +2005,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXmuxSettings.qml" line="233"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXmuxSettings.qml" line="235"/>
@@ -2020,7 +2020,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXmuxSettings.qml" line="237"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageProtocolXrayXmuxSettings.qml" line="238"/>
@@ -2060,7 +2060,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceDnsSettings.qml" line="73"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceDnsSettings.qml" line="74"/>
@@ -2150,7 +2150,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="482"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Косточки 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="532"/>
@@ -2229,7 +2229,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="807"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="808"/>
@@ -2526,7 +2526,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="1881"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceMtProxySettings.qml" line="1901"/>
@@ -2764,7 +2764,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="482"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Косточки 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="532"/>
@@ -2843,7 +2843,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="807"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="808"/>
@@ -3108,7 +3108,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="1738"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageServiceTelemtSettings.qml" line="1757"/>
@@ -3169,7 +3169,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettings.qml" line="48"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Косточки 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettings.qml" line="85"/>
@@ -3179,7 +3179,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettings.qml" line="117"/>
         <source>Servers</source>
-        <translation>Серверы</translation>
+        <translation>Конуры</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettings.qml" line="128"/>
@@ -3383,7 +3383,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApiDevices.qml" line="81"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApiDevices.qml" line="82"/>
@@ -3549,7 +3549,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApiNativeConfigs.qml" line="225"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApiNativeConfigs.qml" line="226"/>
@@ -3645,7 +3645,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageSettingsApiServerInfo.qml" line="441"/>
         <location filename="../ui/qml/Pages2/PageSettingsApiServerInfo.qml" line="478"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApiServerInfo.qml" line="404"/>
@@ -3821,7 +3821,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsAppSplitTunneling.qml" line="201"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsAppSplitTunneling.qml" line="202"/>
@@ -3924,7 +3924,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApplication.qml" line="222"/>
         <source>Disabled</source>
-        <translation>Отключено</translation>
+        <translation>Сплю дома 🏠</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApplication.qml" line="237"/>
@@ -3944,7 +3944,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApplication.qml" line="244"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsApplication.qml" line="245"/>
@@ -4023,7 +4023,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsBackup.qml" line="164"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsBackup.qml" line="165"/>
@@ -4134,7 +4134,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsDns.qml" line="126"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsDns.qml" line="127"/>
@@ -4149,7 +4149,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsDns.qml" line="149"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsDns.qml" line="153"/>
@@ -4212,7 +4212,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsKillSwitch.qml" line="98"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsKillSwitch.qml" line="99"/>
@@ -4250,7 +4250,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsKillSwitchExceptions.qml" line="106"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsKillSwitchExceptions.qml" line="107"/>
@@ -4341,7 +4341,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsLogging.qml" line="86"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsLogging.qml" line="87"/>
@@ -4377,7 +4377,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageSettingsLogging.qml" line="192"/>
         <location filename="../ui/qml/Pages2/PageSettingsLogging.qml" line="218"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsLogging.qml" line="193"/>
@@ -4407,12 +4407,12 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsNewsDetail.qml" line="87"/>
         <source>Update</source>
-        <translation>Обновить</translation>
+        <translation>Отряхнуться</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsNewsDetail.qml" line="112"/>
         <source>Skip</source>
-        <translation>Пропустить</translation>
+        <translation>Пробежать мимо</translation>
     </message>
 </context>
 <context>
@@ -4466,7 +4466,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageSettingsServerData.qml" line="178"/>
         <location filename="../ui/qml/Pages2/PageSettingsServerData.qml" line="207"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsServerData.qml" line="119"/>
@@ -4606,7 +4606,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageSettingsServerProtocol.qml" line="156"/>
         <location filename="../ui/qml/Pages2/PageSettingsServerProtocol.qml" line="201"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsServerProtocol.qml" line="157"/>
@@ -4645,7 +4645,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsServersList.qml" line="38"/>
         <source>Servers</source>
-        <translation>Серверы</translation>
+        <translation>Конуры</translation>
     </message>
 </context>
 <context>
@@ -4689,7 +4689,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageSettingsSplitTunneling.qml" line="211"/>
         <location filename="../ui/qml/Pages2/PageSettingsSplitTunneling.qml" line="361"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSettingsSplitTunneling.qml" line="212"/>
@@ -4776,7 +4776,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardApiFreeInfo.qml" line="125"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
 </context>
 <context>
@@ -4799,7 +4799,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardApiPremiumInfo.qml" line="169"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardApiPremiumInfo.qml" line="171"/>
@@ -4851,7 +4851,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardApiTrialEmail.qml" line="118"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardApiTrialEmail.qml" line="126"/>
@@ -4869,7 +4869,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="77"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Косточки 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="87"/>
@@ -4884,7 +4884,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="111"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="112"/>
@@ -4924,7 +4924,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="190"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="207"/>
@@ -5024,7 +5024,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardCredentials.qml" line="112"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardCredentials.qml" line="144"/>
@@ -5097,7 +5097,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardEasy.qml" line="159"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardEasy.qml" line="200"/>
@@ -5159,7 +5159,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardProtocolSettings.qml" line="175"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation>Спать</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardProtocolSettings.qml" line="193"/>
@@ -5236,7 +5236,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardTextKey.qml" line="89"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
 </context>
 <context>
@@ -5269,7 +5269,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardViewConfig.qml" line="207"/>
         <source>Connect</source>
-        <translation>Подключиться</translation>
+        <translation>Гав-вперёд!</translation>
     </message>
 </context>
 <context>
@@ -5385,7 +5385,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="301"/>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="302"/>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation>Конура</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="366"/>
@@ -5442,7 +5442,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="801"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="837"/>
@@ -5462,7 +5462,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="842"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageShare.qml" line="843"/>
@@ -5537,7 +5537,7 @@ Create one from the current settings.</source>
         <location filename="../ui/qml/Pages2/PageShareFullAccess.qml" line="87"/>
         <location filename="../ui/qml/Pages2/PageShareFullAccess.qml" line="88"/>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation>Конура</translation>
     </message>
     <message>
         <location filename="../ui/qml/Pages2/PageShareFullAccess.qml" line="115"/>
@@ -5583,7 +5583,7 @@ Create one from the current settings.</source>
     <message>
         <location filename="../ui/qml/Controls2/PopupType.qml" line="101"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation>Спать</translation>
     </message>
 </context>
 <context>
@@ -6387,7 +6387,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
     <message>
         <location filename="../ui/qml/Components/RenameServerDrawer.qml" line="41"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
 </context>
 <context>
@@ -6395,7 +6395,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
     <message>
         <location filename="../core/repositories/secureServersRepository.cpp" line="212"/>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation>Конура</translation>
     </message>
 </context>
 <context>
@@ -6557,7 +6557,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
         <location filename="../ui/utils/systemTrayNotificationHandler.cpp" line="30"/>
         <location filename="../ui/utils/systemTrayNotificationHandler.cpp" line="76"/>
         <source>Connect</source>
-        <translation>Подключиться</translation>
+        <translation>Гав-вперёд!</translation>
     </message>
     <message>
         <location filename="../ui/utils/systemTrayNotificationHandler.cpp" line="31"/>
@@ -6575,7 +6575,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
         <location filename="../ui/utils/systemTrayNotificationHandler.cpp" line="41"/>
         <location filename="../ui/utils/systemTrayNotificationHandler.cpp" line="79"/>
         <source>Quit</source>
-        <translation>Закрыть</translation>
+        <translation>Спать</translation>
     </message>
 </context>
 <context>
@@ -6630,7 +6630,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="137"/>
         <source>Disconnected</source>
-        <translation>Отключено</translation>
+        <translation>Сплю дома 🏠</translation>
     </message>
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="138"/>
@@ -6640,22 +6640,22 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="139"/>
         <source>Connecting...</source>
-        <translation>Подключение...</translation>
+        <translation>Нюхаю туннель... 🐾</translation>
     </message>
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="140"/>
         <source>Connected</source>
-        <translation>Подключено</translation>
+        <translation>Гав! Подключено 🐾</translation>
     </message>
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="141"/>
         <source>Disconnecting...</source>
-        <translation>Отключение...</translation>
+        <translation>Убираю лапы...</translation>
     </message>
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="142"/>
         <source>Reconnecting...</source>
-        <translation>Переподключение...</translation>
+        <translation>Снова нюхаю туннель...</translation>
     </message>
     <message>
         <location filename="../core/protocols/vpnProtocol.cpp" line="143"/>
@@ -6704,7 +6704,7 @@ FileZilla или другие SFTP-клиенты, а также смонтир�
     <message>
         <location filename="../ui/qml/main2.qml" line="300"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зарыть 🦴</translation>
     </message>
     <message>
         <location filename="../ui/qml/main2.qml" line="394"/>
@@ -6721,7 +6721,7 @@ Remove the server from the app to continue.</source>
     <message>
         <location filename="../ui/qml/main2.qml" line="396"/>
         <source>Continue</source>
-        <translation>Продолжить</translation>
+        <translation>Дальше! 🐾</translation>
     </message>
     <message>
         <location filename="../ui/qml/main2.qml" line="397"/>
