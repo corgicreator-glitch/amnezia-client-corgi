@@ -97,7 +97,7 @@ Button {
     contentItem: Text {
         height: 24
         font.family: "PT Root UI VF"; font.weight: 700; font.pixelSize: 20
-        color: ConnectionController.isConnected ? connectedButtonColor : defaultButtonColor
+        color: ConnectionController.isConnected ? connectedButtonColor : AmneziaStyle.color.slateGray
         text: root.text
         horizontalAlignment: Text.AlignHCenter; verticalAlignment: Text.AlignVCenter
     }
