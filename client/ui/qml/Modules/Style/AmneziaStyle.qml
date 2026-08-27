@@ -12,14 +12,14 @@ QtObject {
         readonly property color transparent: 'transparent'
 
         // ── Neutrals (cream/warm-white replaces cold grays) ──────────────
-        readonly property color paleGray: '#F5EFE6'          // was #D7D8DB — cream white (corgi belly)
-        readonly property color lightGray: '#EAD9C6'         // was #C1C2C5 — warm sand
-        readonly property color mutedGray: '#A0836A'         // was #878B91 — warm brown-gray
-        readonly property color charcoalGray: '#5C3D2E'      // was #494B50 — deep corgi brown
-        readonly property color slateGray: '#3B2215'         // was #2C2D30 — dark chocolate
-        readonly property color onyxBlack: '#231510'         // was #1C1D21 — near-black warm
-        readonly property color midnightBlack: '#FDF8F2'     // was #0E0E11 — light mode BG (warm white)
-        readonly property color pearlGray: '#FDF8F2'         // was #EAEAEC — same warm white
+        readonly property color paleGray: '#E8821A'          // кнопки/акценты — корги-оранжевый
+        readonly property color lightGray: '#7A3A10'         // вторичный текст — тёмный коричневый
+        readonly property color mutedGray: '#5C3D2E'         // мuted текст — шоколад
+        readonly property color charcoalGray: '#3B2215'      // основной текст — тёмный шоколад
+        readonly property color slateGray: '#2A1810'         // заголовки — почти чёрный тёплый
+        readonly property color onyxBlack: '#1A0E08'         // максимально тёмный
+        readonly property color midnightBlack: '#FDF8F2'     // фон окна — тёплый белый
+        readonly property color pearlGray: '#FDF8F2'         // фон — тот же тёплый белый
 
         // ── Accent — Corgi Gold/Apricot (the hero colour) ────────────────
         readonly property color goldenApricot: goldenApricotString   // #E8821A — richer rufous orange
